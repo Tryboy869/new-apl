@@ -1,0 +1,22 @@
+# New APL Dependencies
+# Minimal requirements for array processing and data analysis
+
+# Core dependencies - only what's essential
+# New APL prioritizes minimal dependencies for maximum compatibility
+
+# Built-in Python modules used (no installation needed):
+# - csv (data loading)
+# - json (data interchange) 
+# - time (performance measurement)
+# - statistics (basic statistical functions)
+# - re (natural language parsing)
+# - pathlib (file operations)
+
+# Optional enhancements (auto-installed if needed):
+# numpy==1.24.3          # For advanced array operations comparison
+# pandas==2.0.3          # For performance benchmarking against pandas
+
+# Future enhancement possibilities:
+# matplotlib==3.7.2      # For visualization features
+# scipy==1.11.1          # For advanced statistical functions
+# jupyter==1.0.0         # For notebook interface
